@@ -64,8 +64,11 @@ In the circumstance where information is publically disclosed where it shouldn't
 ## Q7: Outline FOUR techniques for gathering information regarding new information and communication technologies.
 
  - Use passive information gathering strategies such as online research and compilation of data regarding information and communication technologies. This can be through search engine discovery.
+
  - Using established channels for information gathering. These include secondary sources of parties that have already done their own research, and can include various online articles and websites, educational videos etc.
+
  - Active gathering of information through direct involvement. This includes the act of creating or being part of the development cycle of the technology, and thus gaining access to information about the technology.
+ 
  - Through contacting of those who are knowledgeable. Contacting the creator, spokesperson, or other knowledgeable personel can allow for gathering information at a fast rate.
 
 ## Q8: Describe two ways in which risk is analysed in relation to the security of computer systems.
