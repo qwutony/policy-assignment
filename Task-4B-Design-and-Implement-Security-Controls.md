@@ -12,7 +12,7 @@ Source: https://searchsecurity.techtarget.com/definition/multifactor-authenticat
 
 In order to address the issues and risks identified two security controls will be implemented.
 
-The first is multifactor authentication. Multifactor authentication is a security system that requires a user to be able to supply more than one method of authentication from different categories of credentials. In order to verify their identity, multifactor authentication allows a combination of two or more independent credentials, such as a password and biometric verification to identify the employee, or the person in question.
+The first is multifactor authentication. Multi-factor authentication is a security system that requires a user to be able to supply more than one method of authentication from different categories of credentials. In order to verify their identity, multifactor authentication allows a combination of two or more independent credentials, such as a password and biometric verification to identify the employee, or the person in question.
 
 The objective of creating a multifactor authentication is that it will allow the unauthorized person to have difficulty in attaining two different credentials that are necessary to breach a certain device server network or database.
 
