@@ -74,6 +74,8 @@ The evidence of implementing security controls are in the evidence folder.
 5 and 6. The installation of the audit trail using the command as specified.
 7. Placing a watch on the /etc/passwd system
 
+A live screen capture is provided here: https://www.youtube.com/watch?v=8JdY1QtuYoQ (courtesy of quidsup)
+
 -----------------------------------
 
 ## T4B4: Review the risks to the system and security controls you have devised and utilise the NIST Risk Management Framework Information Systems and Organisations to plan monitoring tasks . Your plan must include:
