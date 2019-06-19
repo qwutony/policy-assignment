@@ -79,6 +79,19 @@ Your questions must:
 
 **T3A6** Consult with a stakeholder who is either familiar with the business, works for the business, or is familiar with the implementation of the proposed technology, regarding your draft business priorities and discuss with them whether the business priorities are correct, and if the technology you propose to implement will be of benefit to the business.
 
+``
+Feedback on business priorities:
+
+`A privacy-focused platform with secure data storage and encrypted messages.`
+This isn’t phrased as a business priority. Rephrase to be something that’s about *doing* something, e.g. “Functioning as a …”
+
+`Earning trust through increasing transparency on significant events, such as elections.`
+That’s fine
+
+`Continue to address the issues associated with data storage on a large scale, to facilitate an increased membership base.`
+Good but rephrase, turn it around to focus on the last part of the sentence
+``
+
 --------------------------------------------------
 
 
