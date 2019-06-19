@@ -61,7 +61,26 @@ And it addresses the need for increasing in privacy for social media and digital
  - Earning trust through increasing transparency on significant events, such as elections.
  - Continue to address the issues associated with data storage on a large scale, to facilitate an increased membership base.
 
-------------------------------------------------
+--------------------------------------------------
+
+**T3A5** Develop a group of FIVE critical questions that elicit a response from stakeholders regarding the business priorities of the business and/or business critical factors. These should be questions that could be asked in an interview or a questionnaire format. 
+
+Your questions must:
+- include a minimum of TWO closed questions and TWO open questions
+- address critical issues for the business and demonstrate that you have an understanding of the business and its activities
+
+ - Does Facebook have a focus on privacy?
+ - What services does Facebook intend to expand upon in the future?
+ - What vision does Facebook have in regards to the Social Media industry?
+ - How does Facebook respond to emerging new technology that can influence their industry?
+ - Is Facebook solely focused on generating shareholder value?
+
+--------------------------------------------------
+
+**T3A6** Consult with a stakeholder who is either familiar with the business, works for the business, or is familiar with the implementation of the proposed technology, regarding your draft business priorities and discuss with them whether the business priorities are correct, and if the technology you propose to implement will be of benefit to the business.
+
+--------------------------------------------------
+
 
 
 
